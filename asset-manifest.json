@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/MagicalBooks/static/css/main.2e508c32.chunk.css",
-    "main.js": "/MagicalBooks/static/js/main.b5de90e0.chunk.js",
-    "main.js.map": "/MagicalBooks/static/js/main.b5de90e0.chunk.js.map",
+    "main.js": "/MagicalBooks/static/js/main.b5277bd4.chunk.js",
+    "main.js.map": "/MagicalBooks/static/js/main.b5277bd4.chunk.js.map",
     "runtime-main.js": "/MagicalBooks/static/js/runtime-main.e7b783f6.js",
     "runtime-main.js.map": "/MagicalBooks/static/js/runtime-main.e7b783f6.js.map",
     "static/js/2.d2b27f8a.chunk.js": "/MagicalBooks/static/js/2.d2b27f8a.chunk.js",
@@ -107,6 +107,6 @@
     "static/js/runtime-main.e7b783f6.js",
     "static/js/2.d2b27f8a.chunk.js",
     "static/css/main.2e508c32.chunk.css",
-    "static/js/main.b5de90e0.chunk.js"
+    "static/js/main.b5277bd4.chunk.js"
   ]
 }
